@@ -1,22 +1,33 @@
-# NAS / 自托管 · Self-hosted
+# NAS / 自托管
 
-> 收藏自托管服务和系统，不把它们误当作每台电脑都要安装的桌面程序。
+[返回首页](../README.md)
 
-[← 返回指南首页](../README.md)
+## 已收藏工具
 
-## 已验证的自托管工具
+### OpenWrt
 
-| 工具 | 作用 | 为什么保留 | 官方获取 | 分类 |
-| --- | --- | --- | --- | --- |
-| **OpenWrt** | 路由器系统、网络服务与扩展 | 网络系统可控、能够按需扩展 | [官网](https://openwrt.org/) | 网络系统 |
-| **OpenClash** | OpenWrt 系列系统上的 Clash 图形化管理插件 | 方便集中管理代理规则和节点 | [官方 GitHub](https://github.com/vernesong/OpenClash) | 网络插件 |
-| **Home Assistant** | 智能家居设备与自动化统一管理 | 本地化、自动化能力强 | [官网](https://www.home-assistant.io/) | 智能家居 |
-| **Jellyfin** | 自托管影视媒体库、海报、播放管理 | 自己控制媒体库和元数据 | [官网](https://jellyfin.org/) | 家庭影音 |
+- **用途**：用于路由器的开源操作系统。
+- **官网**：[访问](https://openwrt.org/)
+- **GitHub**：[项目](https://github.com/openwrt/openwrt)
+- **我的使用体验**：_待填写_
 
-## 迁移与恢复注意
+### OpenClash
 
-- **OpenWrt / OpenClash**：备份网络配置、扩展清单和关键设置，但不要在公开仓库贴出订阅链接、节点、密码、密钥、内网结构。若用 ImmortalWrt 等分支，另行记录具体镜像/发行版。
-- **Home Assistant**：备份时确保包含必要配置与密钥；恢复到新设备前先检查插件和设备兼容性。
-- **Jellyfin**：服务程序、媒体源、元数据目录、备份和权限分别管理；不要把整套服务部署细节和私人媒体路径公开。
+- **用途**：基于 OpenWrt 的 Clash 代理管理插件。
+- **官网**：-
+- **GitHub**：[项目](https://github.com/vernesong/OpenClash)
+- **我的使用体验**：_待填写_
 
-> 这里记录的是工具和选择理由，**不是公开家庭网络拓扑或服务器密码的地方**。
+### Home Assistant
+
+- **用途**：本地智能家居管理与自动化。
+- **官网**：[访问](https://www.home-assistant.io/)
+- **GitHub**：[项目](https://github.com/home-assistant/core)
+- **我的使用体验**：_待填写_
+
+### Jellyfin
+
+- **用途**：自托管影音媒体库与播放服务。
+- **官网**：[访问](https://jellyfin.org/)
+- **GitHub**：[项目](https://github.com/jellyfin/jellyfin)
+- **我的使用体验**：_待填写_

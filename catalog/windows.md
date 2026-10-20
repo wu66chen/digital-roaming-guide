@@ -1,35 +1,60 @@
-# Windows · 软件收藏
+# ⊞ Windows
 
-> 用于找回已经验证好用的 Windows 工具。**“新系统必装”是个人恢复优先级，不代表所有人都需要。**
+[返回首页](../README.md) · [重装清单](../reinstall/windows.md) · [跨平台软件](cross-platform.md)
 
-[← 返回指南首页](../README.md) · [Windows 重装清单](../reinstall/windows.md) · [跨平台工具](cross-platform.md)
+## 新系统必装
 
-## 新系统必装 · Essentials
+### 7-Zip
 
-| 软件 | 核心用途 | 我为什么保留 | 官方获取 | 状态 |
-| --- | --- | --- | --- | --- |
-| **7-Zip** | 压缩与解压 7z、ZIP、RAR 等格式 | 稳定、轻量，基础文件处理离不开 | [官网](https://www.7-zip.org/) | 必装 |
-| **PotPlayer** | 本地视频与音频播放 | 格式兼容性强，便于管理本地视频播放 | [官网](https://potplayer.daum.net/) | 必装 |
-| **QuickLook** | 资源管理器中按空格快速预览文件 | 不打开大型应用就能快速查看文件 | [项目 / Releases](https://github.com/QL-Win/QuickLook) | 必装 |
-| **Geek Uninstaller** | 卸载应用、查找相关残留 | 便携、操作直接，适合清理试用程序 | [官网下载](https://geekuninstaller.com/download) | 必装 |
+- **用途**：文件压缩与解压。
+- **官网**：[访问](https://www.7-zip.org/)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
 
-## 已验证好用 · 按需安装
+### PotPlayer
 
-| 软件 | 什么时候需要 | 为什么保留 | 官方获取 | 状态 |
-| --- | --- | --- | --- | --- |
-| **File Converter** | 文件右键格式转换、压缩 | 直接在资源管理器操作，减少打开独立转换软件的次数 | [官网](https://file-converter.io/) / [源码](https://github.com/Tichau/FileConverter) | 按需 |
-| **Rufus** | 重装系统、制作 Windows / Linux 启动 U 盘 | 体积小、无需复杂安装，重装时非常实用 | [官网](https://rufus.ie/) | 按需 |
-| **ComfyUI Portable** | 本地 AI 图像工作流、放大与节点处理 | 可在浏览器使用，模型和工作流更易集中管理 | [官方项目及发布](https://github.com/Comfy-Org/ComfyUI/releases) | 按需 |
+- **用途**：播放本地视频与音频。
+- **官网**：[访问](https://potplayer.daum.net/)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
 
-### ComfyUI 安装备注
+### QuickLook
 
-- 使用的是 **Windows Portable / Standalone（`ComfyUI_windows_portable`）**，自带 `python_embeded`，启动本地 Web 页面；**不是 ComfyUI Desktop**。
-- 过往使用过带 `--windows-standalone-build`、`--listen`、`--enable-manager` 的启动方式。
-- 旧使用记录出现过 `0.39.0`，但具体下载包的完整名称、CUDA 构建和当前安装版本尚未核定；重装时应根据显卡和官方 Releases 重新选择。
-- 自己使用的模型、工作流、custom nodes 配置要独立备份。不要为了记录工具在公开仓库发布个人路径、访问令牌或 NAS 信息。
+- **用途**：在 Windows 资源管理器中按空格预览文件。
+- **官网**：-
+- **GitHub**：[项目](https://github.com/QL-Win/QuickLook)
+- **我的使用体验**：_待填写_
 
-## 也支持 Windows 的跨平台工具
+### Geek Uninstaller
 
-[Bitwarden（必装）](cross-platform.md#跨平台必装--essential) · [PixPin、Keyviz、Tailscale（按需）](cross-platform.md#跨平台已验证好用--on-demand)
+- **用途**：卸载 Windows 程序，检查关联残留。
+- **官网**：[访问](https://geekuninstaller.com/download)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
 
-> 优先记录作用与官方来源，不追踪短期软件版本号。
+## 按需安装
+
+### File Converter
+
+- **用途**：通过文件右键菜单转换图片、音视频或文档格式。
+- **官网**：[访问](https://file-converter.io/)
+- **GitHub**：[项目](https://github.com/Tichau/FileConverter)
+- **我的使用体验**：_待填写_
+
+### Rufus
+
+- **用途**：制作操作系统安装 U 盘和可启动介质。
+- **官网**：[访问](https://rufus.ie/)
+- **GitHub**：[项目](https://github.com/pbatard/rufus)
+- **我的使用体验**：_待填写_
+
+### ComfyUI Windows Portable
+
+- **用途**：本地 AI 图像工作流与节点式处理；使用自带 Python 的 Windows 便携版、通过浏览器操作。
+- **官网**：[访问](https://www.comfy.org/)
+- **GitHub**：[项目](https://github.com/Comfy-Org/ComfyUI)
+- **便携版下载**：[打开](https://github.com/Comfy-Org/ComfyUI/releases)
+- **备注**：使用 `ComfyUI_windows_portable`（内置 Python、本地 Web 界面）；不是 ComfyUI Desktop。具体构建版本尚未记录。
+- **我的使用体验**：_待填写_
+
+**跨平台软件**： [Bitwarden（必装）](cross-platform.md#bitwarden)、[PixPin](cross-platform.md#pixpin)、[Keyviz](cross-platform.md#keyviz)、[Tailscale](cross-platform.md#tailscale)。

@@ -1,75 +1,35 @@
 # 我的数字漫游指南
 
-*My Digital Wanderer's Guide*
+**个人软件、浏览器扩展与自托管工具收藏清单。** 用于记录好用的软件，并在重装系统或更换设备时快速查找。
 
-> 一份写给未来自己的数字工具收藏册。把真正顺手的软件、值得回访的网站和实用的小工具留在这里；等到更换设备、重装系统时，仍能轻松找回。
+## 软件目录
 
-**个人精选 / Personal Picks**　·　**跨平台 / Cross-Platform**　·　**持续整理 / Living Archive**
-
-[浏览软件收藏](catalog/windows.md) · [系统重装清单](reinstall/windows.md) · [待体验清单](INBOX.md)
-
----
-
-## 从这里出发 · Start Here
-
-| 我现在想要…… | 前往 |
+| 分类 | 内容 |
 | --- | --- |
-| 找回某个平台上好用的软件 | [软件收藏目录 ↓](#软件收藏--the-collection) |
-| 重装系统后快速恢复常用工具 | [重装与迁移 ↓](#重装与迁移--start-again) |
-| 记录一个刚发现、还没试过的工具 | [待体验清单](INBOX.md) |
-| 给值得收藏的软件建立条目 | [软件条目模板](templates/software-entry.md) |
+| [⊞ Windows](catalog/windows.md) | 新系统必装、按需安装 |
+| [ macOS](catalog/macos.md) | 新系统必装、常用工具 |
+| [跨平台](catalog/cross-platform.md) | 多系统通用工具 |
+| [浏览器](catalog/browser.md) | 扩展程序、用户脚本 |
+| [NAS / 自托管](catalog/nas-selfhosted.md) | 路由系统、服务与应用 |
+| [iOS / iPadOS](catalog/ios-ipados.md) | 待补充 |
+| [Android](catalog/android.md) | 待补充 |
+| [在线工具](catalog/web.md) | 待补充 |
 
-## 软件收藏 · The Collection
+## 重装清单
 
-按使用平台整理，收藏经过实际体验、愿意再次使用的工具。平台之间可能交叉；同一软件无需为了分类而重复写一份介绍。
+- [⊞ Windows 重装清单](reinstall/windows.md)
+- [ macOS 新设备清单](reinstall/macos.md)
 
-| 平台 / Platform | 收录范围 |
-| --- | --- |
-| **[跨平台 / Cross-Platform](catalog/cross-platform.md)** | 跨 Windows、macOS 和移动平台的必装与按需工具 |
-| **[Windows](catalog/windows.md)** | 系统工具、效率、截图录屏、文件管理、设计、开发与影音 |
-| **[macOS](catalog/macos.md)** | 原生应用、菜单栏、窗口管理、系统增强与创作工具 |
-| **[iOS / iPadOS](catalog/ios-ipados.md)** | 手机与平板应用、快捷指令及实用工具 |
-| **[Android](catalog/android.md)** | Android 应用、系统增强与日常工具 |
-| **[浏览器 / Browser](catalog/browser.md)** | 浏览器扩展、用户脚本与网页体验增强 |
-| **[NAS / 自托管 · Self-hosted](catalog/nas-selfhosted.md)** | 局域网服务、影音、文件管理与自托管应用 |
-| **[在线工具 / Web](catalog/web.md)** | 无需安装的网站、在线服务和 Web 应用 |
+## 其他
 
-> 这是一份正在生长的私人收藏。目录尚未填满，也不会为了增加数量而收录没有实际体验的工具。
+- [Mac 清理工具对比：AppCleaner、PureMac、Mole](guides/macos-cleaners.md)
+- [待体验软件](INBOX.md)
+- [软件条目模板](templates/software-entry.md)
 
-## 重装与迁移 · Start Again
+## 收录规则
 
-换一台设备时，最难找回的往往不是安装包，而是那些「当初为什么装它」的小理由。
-
-| 清单 | 用途 |
-| --- | --- |
-| [Windows 重装清单](reinstall/windows.md) | 核心长期安装、按需安装、不再安装 |
-| [macOS 迁移清单](reinstall/macos.md) | 常用应用、按需工具及迁移注意事项 |
-| [macOS 清理工具对比](guides/macos-cleaners.md) | AppCleaner、PureMac、Mole 的定位和安全边界 |
-
-**原则：** 先恢复真正需要的工具，其余等到再次遇到需求时再安装。不照搬旧系统的软件列表。
-
-## 收藏标准 · The Compass
-
-每个正式收录的工具，尽量回答三个问题：**它解决什么问题？我为什么喜欢它？下一次还会安装吗？**
-
-| 状态 | 含义 |
-| --- | --- |
-| **常用** | 已验证好用，日常或高频任务会主动使用 |
-| **按需** | 特定任务非常有用，但不需要长期安装或后台常驻 |
-| **待体验** | 感兴趣、尚未形成实际使用结论；统一记录在 [INBOX](INBOX.md) |
-| **停用** | 曾经使用过，但已被替代、失去需求或不再建议安装 |
-
-收藏时优先使用官方主页、官方 GitHub 或正式商店链接；不刻意维护每个软件的精确版本号。收藏名单与“当前设备的必装名单”始终分开。
-
-## 记录与更新 · Field Notes
-
-1. **遇见**：发现有趣的工具，先放进 [待体验清单](INBOX.md)。
-2. **试用**：实际解决一次问题，观察是否愿意再次使用。
-3. **收藏**：确认值得留下，使用 [软件条目模板](templates/software-entry.md) 写清用途、理由和获取地址。
-4. **回访**：偶尔检查失效链接、替代方案以及重装清单是否仍然合理。
-
-这份指南先用 **Markdown + GitHub** 维护。以后若制作成个人网站，继续沿用这些文字和分类，不急着建立额外数据库或复杂后台。
-
----
-
-<sub>私人收藏 · 不保证适合所有人。软件的价格、功能、授权与兼容性可能变化，请以开发者官方信息为准。</sub>
+- **必装**：新系统安装后优先恢复。
+- **按需**：已经验证好用，需要时再安装。
+- **待体验**：尚未确定是否值得长期保留，记录在 `INBOX.md`。
+- 每款软件保留**用途、官网、GitHub、我的使用体验**字段；没有对应链接时写 `-`。
+- “我的使用体验”由本人填写，不预先生成个人评价。

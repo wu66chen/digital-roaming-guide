@@ -1,33 +1,90 @@
-# 浏览器 · Browser
+# 浏览器扩展与用户脚本
 
-> 已经用过并认可的浏览器扩展和用户脚本。若换浏览器，优先到扩展官方主页重新选择对应商店版本。
+[返回首页](../README.md)
 
-[← 返回指南首页](../README.md) · [跨平台工具](cross-platform.md)
+## 浏览器扩展
 
-## 扩展 · Browser Extensions
+### Adblock Plus
 
-| 扩展 | 用途 | 官方获取 | 收藏状态 |
-| --- | --- | --- | --- |
-| **Adblock Plus** | 网页广告拦截与过滤 | [官网](https://adblockplus.org/) | 已验证好用 |
-| **BewlyBewly! Ave Mujica** | Bilibili 界面美化、调整网页布局 | [官方 GitHub](https://github.com/VentusUta/BewlyBewly-AveMujica) | 已验证好用 |
-| **Dark Reader** | 为网页增加深色阅读风格 | [官网](https://darkreader.org/) | 已验证好用 |
-| **GoFullPage** | 一键网页整页滚动截图 | [官网](https://gofullpage.com/) | 已验证好用 |
-| **Markdown Reader** | 浏览器内阅读 Markdown 文件 | **待核对具体扩展作者与商店链接**（存在同名扩展） | 已验证好用 |
-| **划词翻译** | 划词、截图与网页全文翻译 | [官网](https://www.hcfy.ai/) | 已验证好用 |
-| **小电视空降助手** | 自动跳过 Bilibili 视频中由社区标注的片段 | [官方 GitHub](https://github.com/hanydd/BilibiliSponsorBlock) | 已验证好用 |
-| **批量图片下载器 - Imageye** | 提取和批量下载网页图片 | [Chrome 官方商店](https://chromewebstore.google.com/detail/agionbommeaifngbhincahgmoflcikhm) | 已验证好用 |
-| **猫抓（Cat Catch）** | 识别网页中的媒体资源 | [官方 GitHub](https://github.com/xifangczy/cat-catch) | 已验证好用 |
-| **篡改猴（Tampermonkey）** | 安装、管理和更新用户脚本 | [官网](https://www.tampermonkey.net/) | 已验证好用 |
+- **用途**：过滤网页广告。
+- **官网**：[访问](https://adblockplus.org/)
+- **GitHub**：[项目](https://github.com/adblockplus/adblockplus)
+- **我的使用体验**：_待填写_
 
-## 用户脚本 · Userscripts
+### BewlyBewly! Ave Mujica
 
-| 脚本 | 用途 | 获取地址 | 收藏状态 |
-| --- | --- | --- | --- |
-| **豆包 AI 生图去水印（增强版）** | 豆包生成图片的网页端处理辅助 | **待补充准确脚本页或作者地址** | 已验证好用 |
+- **用途**：调整和美化 Bilibili 网页界面。
+- **官网**：-
+- **GitHub**：[项目](https://github.com/VentusUta/BewlyBewly-AveMujica)
+- **Chrome 安装**：[打开](https://chromewebstore.google.com/detail/bewlybewly-ave-mujica/lildghglkgcoanblbmenbefhnhifghjj)
+- **我的使用体验**：_待填写_
 
-## 恢复浏览器时的提醒
+### Dark Reader
 
-- 优先恢复自己真正需要的扩展；不同扩展可能冲突，不要一口气全部开启后才排查问题。
-- 用户脚本统一通过 Tampermonkey 管理，但不在公开仓库保存任何令牌或个人配置。
-- **Markdown Reader**、**豆包 AI 生图去水印（增强版）** 的准确发布来源尚未确认：先留空，避免收藏到同名但并非你使用的工具。
-- [Bitwarden 浏览器扩展](https://bitwarden.com/download/) 归入 [跨平台必装](cross-platform.md)；不在本页重复单独计数。
+- **用途**：为网页提供深色模式。
+- **官网**：[访问](https://darkreader.org/)
+- **GitHub**：[项目](https://github.com/darkreader/darkreader)
+- **我的使用体验**：_待填写_
+
+### GoFullPage
+
+- **用途**：将完整网页截取为长图。
+- **官网**：[访问](https://gofullpage.com/)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
+
+### Markdown Reader
+
+- **用途**：在浏览器中预览本地或在线 Markdown 文件。
+- **官网**：[访问](https://md-reader.github.io/)
+- **GitHub**：[项目](https://github.com/md-reader/md-reader)
+- **备注**：此 GitHub 仓库存放旧版 2.x 源码；当前安装请以项目官网提供的新版本为准。
+- **我的使用体验**：_待填写_
+
+### 划词翻译
+
+- **用途**：划词翻译及网页内容翻译。
+- **官网**：[访问](https://hcfy.ai/)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
+
+### 小电视空降助手
+
+- **用途**：根据社区标注跳过 Bilibili 视频中的指定片段。
+- **官网**：-
+- **GitHub**：[项目](https://github.com/hanydd/BilibiliSponsorBlock)
+- **我的使用体验**：_待填写_
+
+### 批量图片下载器 - Imageye
+
+- **用途**：浏览网页图片并批量选择、下载。
+- **官网**：[访问](https://imageye.net/)
+- **GitHub**：-
+- **Chrome 安装**：[打开](https://chromewebstore.google.com/detail/agionbommeaifngbhincahgmoflcikhm)
+- **我的使用体验**：_待填写_
+
+### 猫抓（Cat Catch）
+
+- **用途**：识别网页中的媒体资源地址。
+- **官网**：[访问](https://cat-catch.94cat.com/)
+- **GitHub**：[项目](https://github.com/xifangczy/cat-catch)
+- **我的使用体验**：_待填写_
+
+### 篡改猴（Tampermonkey）
+
+- **用途**：管理和更新浏览器用户脚本。
+- **官网**：[访问](https://www.tampermonkey.net/)
+- **GitHub**：-
+- **我的使用体验**：_待填写_
+
+## 用户脚本
+
+### 豆包 AI 生图去水印（增强版）
+
+- **用途**：用于处理豆包 AI 生图页面中的水印。
+- **官网**：-
+- **GitHub**：-
+- **Greasy Fork**：[打开](https://greasyfork.org/zh-CN/scripts/558800)
+- **我的使用体验**：_待填写_
+
+**其他关联收藏**：[Bitwarden 浏览器扩展](cross-platform.md#bitwarden)。
