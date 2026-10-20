@@ -6,8 +6,8 @@
 
 | 分类 | 内容 |
 | --- | --- |
-| <a href="catalog/windows.md"><img src="assets/icons/windows.svg" alt="" width="16" height="16"> Windows</a> | 必装、按需安装 |
-| <a href="catalog/macos.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> macOS</a> | 必装、按需安装 |
+| <a href="catalog/windows.md"><img src="assets/icons/windows.svg" alt="" width="18" height="18" align="absmiddle">     Windows</a> | 必装、按需安装 |
+| <a href="catalog/macos.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle">     macOS</a> | 必装、按需安装 |
 | [跨平台](catalog/cross-platform.md) | 多平台必装与按需工具 |
 | [浏览器](catalog/browser.md) | 扩展程序、用户脚本 |
 | [NAS / 自托管](catalog/nas-selfhosted.md) | 路由系统、自托管服务 |
