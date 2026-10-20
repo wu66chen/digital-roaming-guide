@@ -1,4 +1,4 @@
-#  macOS 清理工具对比
+# <img src="../assets/icons/apple.svg" alt="" width="20" height="20"> macOS 清理工具对比
 
 [首页](../README.md) · [macOS 软件目录](../catalog/macos.md)
 

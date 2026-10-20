@@ -1,4 +1,4 @@
-# ⊞ Windows
+# <img src="../assets/icons/windows.svg" alt="" width="20" height="20"> Windows
 
 [首页](../README.md) · [重装清单](../reinstall/windows.md) · [跨平台软件](cross-platform.md)
 

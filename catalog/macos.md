@@ -1,4 +1,4 @@
-#  macOS
+# <img src="../assets/icons/apple.svg" alt="" width="20" height="20"> macOS
 
 [首页](../README.md) · [新设备清单](../reinstall/macos.md) · [清理工具对比](../guides/macos-cleaners.md)
 

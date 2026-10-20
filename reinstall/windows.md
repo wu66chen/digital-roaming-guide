@@ -1,4 +1,4 @@
-# ⊞ Windows 重装清单
+# <img src="../assets/icons/windows.svg" alt="" width="20" height="20"> Windows 重装清单
 
 [首页](../README.md) · [Windows 软件目录](../catalog/windows.md)
 

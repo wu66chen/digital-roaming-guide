@@ -6,8 +6,8 @@
 
 | 分类 | 内容 |
 | --- | --- |
-| [⊞ Windows](catalog/windows.md) | 必装、按需安装 |
-| [ macOS](catalog/macos.md) | 必装、按需安装 |
+| <a href="catalog/windows.md"><img src="assets/icons/windows.svg" alt="" width="16" height="16"> Windows</a> | 必装、按需安装 |
+| <a href="catalog/macos.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> macOS</a> | 必装、按需安装 |
 | [跨平台](catalog/cross-platform.md) | 多平台必装与按需工具 |
 | [浏览器](catalog/browser.md) | 扩展程序、用户脚本 |
 | [NAS / 自托管](catalog/nas-selfhosted.md) | 路由系统、自托管服务 |
@@ -17,12 +17,12 @@
 
 ## 重装清单
 
-- [⊞ Windows 重装清单](reinstall/windows.md)
-- [ macOS 新设备清单](reinstall/macos.md)
+- <a href="reinstall/windows.md"><img src="assets/icons/windows.svg" alt="" width="16" height="16"> Windows 重装清单</a>
+- <a href="reinstall/macos.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> macOS 新设备清单</a>
 
 ## 其他
 
-- [ Mac 清理工具对比](guides/macos-cleaners.md)
+- <a href="guides/macos-cleaners.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> Mac 清理工具对比</a>
 - [待体验 / 待整理](INBOX.md)
 - [软件条目模板](templates/software-entry.md)
 
