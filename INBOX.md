@@ -2,23 +2,20 @@
 
 [← 返回指南首页](README.md)
 
-这里记录**感兴趣但还没形成推荐结论**的软件，避免把“看起来不错”和“真正好用”混在一起。
+> 只存感兴趣但**尚未做出是否保留结论**的工具。已由本人明确认可的软件移至正式目录。
 
-| 软件 / 工具 | 平台 | 想解决的问题 | 官方链接 | 试用结论 |
+| 软件 / 工具 | 平台 | 想解决的问题 | 官方链接 | 体验状态 |
 | --- | --- | --- | --- | --- |
-| *待添加* | — | — | — | 待体验 |
+| [ShareX](https://getsharex.com/) | Windows | 开源截图与自动化截图工作流 | [官网](https://getsharex.com/) | 待进一步体验 |
+| [Shutter Encoder](https://www.shutterencoder.com/) | Windows / macOS | 音视频转码和处理 | [官网](https://www.shutterencoder.com/) | 待进一步体验 |
+| [Infuse](https://firecore.com/infuse) | Apple 系统 | 家庭媒体播放体验 | [官网](https://firecore.com/infuse) | 尚未纳入本轮精选清单 |
 
-## 最近讨论过、可优先核实的候选工具
+## 来源待确认（已经列入收藏，不代表尚未体验）
 
-以下软件曾在日常使用或工具选型讨论中出现，**不代表已确认纳入正式收藏**：
+- **NewFile**：macOS 页面现暂指向 `mariusgm/newfile`；请核对是否就是自己安装的同一款。
+- **Markdown Reader**：需补实际使用的浏览器商店条目（同名扩展较多）。
+- **豆包 AI 生图去水印（增强版）**：需补准确的发布者和脚本页。
+- **wifi-loc-control**：自用脚本，建议留私有备份，无公开链接也没关系。
+- **ComfyUI Portable**：确认实际下载构建名称即可，不必长期维护版本号。
 
-- [ ] PixPin（截图、长截图、标注）
-- [ ] ShareX（开源截图、工作流）
-- [ ] Shutter Encoder（音视频处理）
-- [ ] ComfyUI（本地生成式 AI 工作流）
-- [ ] Jellyfin（自托管媒体服务）
-- [ ] Infuse（苹果设备媒体播放器）
-- [ ] Tampermonkey（用户脚本管理）
-- [ ] Rufus（系统安装介质制作）
-
-确认真正值得留下后，移入对应的平台页面，并补齐官方来源及个人评价。
+> 本轮已确认 PixPin、ComfyUI、Jellyfin、Tampermonkey、Rufus 等使用分类，已从旧待体验候选移出。

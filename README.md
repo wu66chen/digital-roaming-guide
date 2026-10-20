@@ -25,6 +25,7 @@
 
 | 平台 / Platform | 收录范围 |
 | --- | --- |
+| **[跨平台 / Cross-Platform](catalog/cross-platform.md)** | 跨 Windows、macOS 和移动平台的必装与按需工具 |
 | **[Windows](catalog/windows.md)** | 系统工具、效率、截图录屏、文件管理、设计、开发与影音 |
 | **[macOS](catalog/macos.md)** | 原生应用、菜单栏、窗口管理、系统增强与创作工具 |
 | **[iOS / iPadOS](catalog/ios-ipados.md)** | 手机与平板应用、快捷指令及实用工具 |
@@ -43,6 +44,7 @@
 | --- | --- |
 | [Windows 重装清单](reinstall/windows.md) | 核心长期安装、按需安装、不再安装 |
 | [macOS 迁移清单](reinstall/macos.md) | 常用应用、按需工具及迁移注意事项 |
+| [macOS 清理工具对比](guides/macos-cleaners.md) | AppCleaner、PureMac、Mole 的定位和安全边界 |
 
 **原则：** 先恢复真正需要的工具，其余等到再次遇到需求时再安装。不照搬旧系统的软件列表。
 
