@@ -6,8 +6,8 @@
 
 | 分类 | 内容 |
 | --- | --- |
-| <a href="catalog/windows.md"><img src="assets/icons/windows.svg" alt="" width="18" height="18" align="absmiddle">     Windows</a> | 必装、按需安装 |
-| <a href="catalog/macos.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle">     macOS</a> | 必装、按需安装 |
+| <a href="catalog/windows.md"><img src="assets/icons/windows.svg" alt="" width="18" height="18" align="absmiddle"> Windows</a> | 必装、按需安装 |
+| <a href="catalog/macos.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle"> macOS</a> | 必装、按需安装 |
 | [跨平台](catalog/cross-platform.md) | 多平台必装与按需工具 |
 | [浏览器](catalog/browser.md) | 扩展程序、用户脚本 |
 | [NAS / 自托管](catalog/nas-selfhosted.md) | 路由系统、自托管服务 |
@@ -17,12 +17,12 @@
 
 ## 重装清单
 
-- <a href="reinstall/windows.md"><img src="assets/icons/windows.svg" alt="" width="16" height="16"> Windows 重装清单</a>
-- <a href="reinstall/macos.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> macOS 新设备清单</a>
+- <a href="reinstall/windows.md"><img src="assets/icons/windows.svg" alt="" width="18" height="18" align="absmiddle"> Windows 重装清单</a>
+- <a href="reinstall/macos.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle"> macOS 新设备清单</a>
 
 ## 其他
 
-- <a href="guides/macos-cleaners.md"><img src="assets/icons/apple.svg" alt="" width="16" height="16"> Mac 清理工具对比</a>
+- <a href="guides/macos-cleaners.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle"> Mac 清理工具对比</a>
 - [待体验 / 待整理](INBOX.md)
 - [软件条目模板](templates/software-entry.md)
 
