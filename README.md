@@ -20,6 +20,18 @@
 - <a href="reinstall/windows.md"><img src="assets/icons/windows.svg" alt="" width="18" height="18" align="absmiddle"> Windows 重装清单</a>
 - <a href="reinstall/macos.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle"> macOS 新设备清单</a>
 
+## 操作与排障
+
+记录系统与软件的配置方法、故障解决步骤和可复用的 SOP。
+
+[查看操作与排障](guides/README.md)
+
+## 命令速查
+
+按工具集中整理常用命令、用途、参数与注意事项。
+
+[查看命令速查](commands/README.md)
+
 ## 其他
 
 - <a href="guides/macos-cleaners.md"><img src="assets/icons/apple.svg" alt="" width="18" height="18" align="absmiddle"> Mac 清理工具对比</a>
